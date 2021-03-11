@@ -1,2 +1,5 @@
 # hello-world
-This is the beginning.
+
+Hi Humans!
+
+Loganjin here, It's the beginning!
